@@ -10,7 +10,7 @@
 - Streamlit-powered chatbot interface
 - Model saved with joblib, clean modular structure
 
-🎥 [Live Demo / LinkedIn Video](https://www.linkedin.com/posts/your-linkedin-post-url)
+🎥 [Live Demo / LinkedIn Video](https://www.linkedin.com/posts/mubashir-ul-hassan_machinelearning-datascience-internshipproject-activity-7355711116406063104-vxss?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdI9vMB1c3F3KHIkcvCH_eAEolcHbIjrzE)
 
 **Requirements**:
 - Streamlit
