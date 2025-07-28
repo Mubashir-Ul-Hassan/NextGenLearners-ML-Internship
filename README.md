@@ -15,7 +15,7 @@ Each project folder contains source code, notebooks, and (where applicable) trai
 - 🎬 **Movie Recommendation System** – Collaborative filtering-based recommender
 - ✉️ **Semi-Supervised Learning** – Email Spam Detection using limited labeled data
 - 🎵 **Song Genre Classification** – Predict music genres from audio features
-
+- 🤖 **Career Guidance Chatbot** - Suggest a relevant career path
 ---
 
 ## 🧠 Tech Stack
@@ -24,7 +24,8 @@ Each project folder contains source code, notebooks, and (where applicable) trai
 - **Libraries**:  
   - Data Manipulation: `Pandas`, `NumPy`  
   - Modeling: `Scikit-learn`  
-  - Visualization: `Matplotlib`, `Seaborn`  
+  - Visualization: `Matplotlib`, `Seaborn`
+  - Frontend `Streamlit`
   - Optional: `Librosa` (for audio analysis in song genre classification)
 
 ---
